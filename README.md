@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Security
 - 🌱 I’m currently learning Security and AI
 - 💞️ I’m looking to collaborate on AI apps
-- 📫 How to reach me andilenhlabano@gmail.com
+- 📫 How to reach me tshuma.coleen@gmail.com
 
 <!---
 ColeenAndile/ColeenAndile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
